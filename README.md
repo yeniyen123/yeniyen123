@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd1ZXJjbm11OXMwdnlmdDJncWNyaG9oMHg0MHBja3dheTNxeGM5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding girl gif"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Woman coding gif"/>
 </p>
 
 
@@ -57,8 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yeniyen123&show_icons=true&theme=tokyonight" alt="Yen's GitHub stats"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniyen123&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
+--!>
 ---
