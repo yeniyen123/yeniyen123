@@ -18,7 +18,7 @@
 - 🎓 With Double Specialization in Data Science & Analytics and Enterprise Systems
 - 🏅 Honorable Mention
 - 📊 Passionate about data analytics, business intelligence, and enterprise systems optimization  
-- 💻 **Tech stack**: Power BI, Tableau, Excel, SQL, MySQL, Python, Java, HTML, CSS, JavaScript, AWS, Google Cloud, Figma  
+- 💻 **Tech stack**: Power BI, Tableau, Excel, SQL, Python, Java, HTML, CSS, JavaScript, AWS, Google Cloud, Figma  
 - 🧠 **Methodologies**: Business process analysis, agile project management, change management  
 
 
